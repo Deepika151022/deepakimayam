@@ -1,7 +1,7 @@
 <html>
 <head>
 <body>
-  <center><h1>My Bio-Data</h1></center><img src="passportphoto.gif">
+  <center><h1>My Bio-Data</h1></center><img src="deepak.jpg">
   <table>
     <tr>
       <th>Name:</th>
@@ -9,7 +9,7 @@
     </tr>
     <tr>
       <th>Age:</th>
-      <td>19</td>
+      <td>20</td>
     </tr>
     <tr>
       <th>Degree:</th>
